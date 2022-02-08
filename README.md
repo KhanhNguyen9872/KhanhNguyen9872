@@ -23,10 +23,10 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=KhanhNguyen9872&theme=redical">
 </p>  
 
-<a href="https://twitter.com/sarthak2002">
+<a href="https://fb.me/khanh10a1">
   <img align="left" alt="KhanhNguyen9872 Facebook" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />
 </a>
-<a href="https://t.me/sarthakroy2002">
+<a href="https://youtube.com/c/KhanhNguyen9872_Official">
   <img align="left" alt="KhanhNguyen9872 Youtube" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" />
 </a>
 
