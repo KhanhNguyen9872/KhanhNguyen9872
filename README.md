@@ -1,11 +1,11 @@
 
 
-<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sarthak Roy!</h2>
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm KhanhNguyen9872!</h2>
 
 - 🌱 I’m currently a student of THPT Huynh Thuc Khang
 - 👀 Languages/Tools I know are Python and Shell
-- 💞️ I’m an avid learner and currently learning ro master C/C++ and Python Programming.
-- 👀 I’m interested in Open source projects including AOSP related projects.
+- 💞️ I’m an avid learner and currently learning ro master Python Programming.
+- 👀 I love doing what I want
 - 📱 Devices I own are Realme C3, Google Pixel 3
 - ✔️ Looking forward to achieve something :)
 - 📫 You can reach me by my email address 'khanhvuinguyenvan800983609@gmail.com'. You can also reach me through Facebook or Youtube.
