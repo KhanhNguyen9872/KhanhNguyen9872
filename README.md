@@ -17,13 +17,13 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanhNguyen9872&theme=algolia" alt="KhanhNguyen9872" /></p>
 <br>
 <br>
-- 🌱 I’m currently a student of THPT Huynh Thuc Khang
-- 👀 Languages/Tools I know are Python and Shell
-- 💞️ I’m an avid learner and currently learning ro master Python Programming.
-- 👀 I love doing what I want
-- 📱 Devices I own are Realme C3, Google Pixel 3
-- ✔️ Looking forward to achieve something :)
-- 📫 You can reach me by my email address 'khanhvuinguyenvan800983609@gmail.com'. You can also reach me through Facebook or Youtube.
+- 🌱 I’m currently a student of THPT Huynh Thuc Khang <br>
+- 👀 Languages/Tools I know are Python and Shell <br>
+- 💞️ I’m an avid learner and currently learning ro master Python Programming. <br>
+- 👀 I love doing what I want <br>
+- 📱 Devices I own are Realme C3, Google Pixel 3 <br>
+- ✔️ Looking forward to achieve something :) <br>
+- 📫 You can reach me by my email address 'khanhvuinguyenvan800983609@gmail.com'. You can also reach me through Facebook or Youtube. <br>
 
 
 ### ⚙️ &nbsp;KhanhNguyen9872's GitHub Analytics
