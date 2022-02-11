@@ -1,6 +1,6 @@
 
 
-<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm KhanhNguyen9872!</h2>
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm KhanhNguyen9872!</h2>
 
 
 <p align="center">
@@ -39,7 +39,7 @@
 ### ⚙️ &nbsp;KhanhNguyen9872's GitHub Analytics
 <p align="center">
 <a href="https://github.com/KhanhNguyen9872">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhanhNguyen9872&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhanhNguyen9872&show_icons=true&theme=nightowl&include_all_commits=false&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KhanhNguyen9872&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
@@ -63,6 +63,9 @@
  <img src="https://badges.pufler.dev/repos/KhanhNguyen9872"/>
  <img src="https://badges.pufler.dev/commits/monthly/KhanhNguyen9872"/>
  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%KhanhNguyen9872&longCache=true"/>
+ <p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
 ![Made with love in Vietnamese](https://madewithlove.now.sh/vn?heart=true&template=for-the-badge)
