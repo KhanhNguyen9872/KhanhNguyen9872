@@ -11,7 +11,9 @@
   </a>
 </p>
 <br>
+
 ## 🔥 Streak Stats
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanhNguyen9872&theme=algolia" alt="KhanhNguyen9872" /></p>
 <br>
 <br>
