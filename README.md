@@ -1,32 +1,20 @@
 
 
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm KhanhNguyen9872!</h2>
-
-
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+love+you+%3C3;There+is+my+Github"></a>
 </p>
-
-
 <br>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=KhanhNguyen9872&label=Profile%20views&color=0e75b6&style=plastic" alt="KhanhNguyen9872" /> 
   <a href = "https://commits.top/egypt.html" target="_blank">
   </a>
 </p>
-
 <br>
-
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanhNguyen9872&theme=algolia" alt="KhanhNguyen9872" /></p>
-
 <br>
 <br>
-
-
-
-
 - 🌱 I’m currently a student of THPT Huynh Thuc Khang
 - 👀 Languages/Tools I know are Python and Shell
 - 💞️ I’m an avid learner and currently learning ro master Python Programming.
