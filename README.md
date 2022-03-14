@@ -25,6 +25,7 @@
 - ✔️ Looking forward to achieve something :) <br>
 - 📫 You can reach me by my email address 'khanhvuinguyenvan800983609@gmail.com'. You can also reach me through Facebook or Youtube. <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KhanhNguyen9872&theme=onedark)](https://github.com/KhanhNguyen9872/github-profile-trophy)
 
 ### ⚙️ &nbsp;KhanhNguyen9872's GitHub Analytics
 <p align="center">
