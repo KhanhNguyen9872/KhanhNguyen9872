@@ -12,6 +12,15 @@
 </p>
 <br>
 
+
+<img align="right" alt="GIF" src="https://github.com/KhanhNguyen9872/KhanhNguyen9872/blob/master/code.gif?raw=true" width="500" height="320" />
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
 ## 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanhNguyen9872&theme=algolia" alt="KhanhNguyen9872" /></p>
@@ -25,7 +34,9 @@
 - ✔️ Looking forward to achieve something :) <br>
 - 📫 You can reach me by my email address 'khanhvuinguyenvan800983609@gmail.com'. You can also reach me through Facebook or Youtube. <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KhanhNguyen9872&theme=onedark)](https://github.com/KhanhNguyen9872/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KhanhNguyen9872&theme=onedark)](https://github.com/KhanhNguyen9872#)
+
 
 ### ⚙️ &nbsp;KhanhNguyen9872's GitHub Analytics
 <p align="center">
