@@ -25,7 +25,7 @@
 <br>
 <br>
 - 🌱 I’m currently a student of THPT Huynh Thuc Khang <br>
-- 👀 Languages/Tools I know are Python and Bash Shell <br>
+- 👀 Languages/Tools I know are Python, Batchfile, VBScript and Bash Shell <br>
 - 💞️ I’m an avid learner and currently learning ro master Python Programming. <br>
 - 👀 I love doing what I want <br>
 - 📱 Devices I own are Realme C3, Google Pixel 3 and Xiaomi Poco F1 <br>
