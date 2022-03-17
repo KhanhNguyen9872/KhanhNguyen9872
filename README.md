@@ -13,7 +13,7 @@
 <br>
 
 
-<img align="right" alt="GIF" src="https://github.com/KhanhNguyen9872/KhanhNguyen9872/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/KhanhNguyen9872/KhanhNguyen9872/raw/main/code.gif" width="500" height="320" />
 
 **languages and tools:**  
 
