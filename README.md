@@ -1,6 +1,4 @@
-
-<img align="right" alt="GIF" src="https://github.com/KhanhNguyen9872/KhanhNguyen9872/raw/main/code.gif" width="375" height="240" />
-<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> I'm KhanhNguyen9872!</h2>
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> I'm KhanhNguyen9872!</h2>
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+love+you+%3C3;There+is+my+Github;Thanks+for+view;KhanhNguyen9872"></a>
 </p>
@@ -11,13 +9,6 @@
   </a>
 </p>
 <br>
-
-
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 ## 🔥 Streak Stats
 
@@ -32,10 +23,6 @@
 - ✔️ Looking forward to achieve something :) <br>
 - 📫 You can reach me by my email address 'khanhvuinguyenvan800983609@gmail.com'. You can also reach me through Facebook or Youtube. <br>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KhanhNguyen9872&theme=onedark)](https://github.com/KhanhNguyen9872#)
-
-
 ### ⚙️ &nbsp;KhanhNguyen9872's GitHub Analytics
 <p align="center">
 <a href="https://github.com/KhanhNguyen9872">
@@ -47,6 +34,8 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=KhanhNguyen9872&theme=redical">
 </p>  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KhanhNguyen9872&theme=onedark)](https://github.com/KhanhNguyen9872#)
 
 <a href="https://fb.me/khanh10a1">
   <img align="left" alt="KhanhNguyen9872 Facebook" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />
