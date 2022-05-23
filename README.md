@@ -1,6 +1,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/KhanhNguyen9872/KhanhNguyen9872/raw/main/code.gif" width="375" height="240" />
-<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm KhanhNguyen9872!</h2>
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> I'm KhanhNguyen9872!</h2>
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+love+you+%3C3;There+is+my+Github;Thanks+for+view;KhanhNguyen9872"></a>
 </p>
