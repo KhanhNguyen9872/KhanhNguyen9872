@@ -47,14 +47,7 @@
 <br />
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=KhanhNguyen9872&style=flat-square"/>
- <img src="https://badges.pufler.dev/years/KhanhNguyen9872"/>
- <img src="https://badges.pufler.dev/repos/KhanhNguyen9872"/>
- <img src="https://badges.pufler.dev/commits/monthly/KhanhNguyen9872"/>
- <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%KhanhNguyen9872&longCache=true"/>
- <p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
+ &emsp;
+  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 
 ![Made with love in Vietnamese](https://madewithlove.now.sh/vn?heart=true&template=for-the-badge)
